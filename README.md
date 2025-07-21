@@ -17,7 +17,6 @@
 
 - 🌱 I’m currently learning **React, Next.js, and building full-stack projects**
 - 👨‍💻 All of my work is available on my [Portfolio](https://tinyurl.com/3jfeu52m)
-- 💬 Ask me about **JavaScript, React, Tailwind, MongoDB, Next.js**
 - 📫 Reach me at **ashutoshpandey23june2005@gmail.com**
 - ⚡ Fun fact: I love turning simple ideas into real-time user interfaces 🚀
 
