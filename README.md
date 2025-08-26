@@ -56,6 +56,16 @@
 ![Followers](https://img.shields.io/github/followers/ashutoshpandey18?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/ashutoshpandey18?style=social)
 
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZenSensi/ZenSensi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZenSensi/ZenSensi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZenSensi/ZenSensi/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ---
 
 ## ✨ Quote
