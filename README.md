@@ -1,85 +1,136 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Pandey</h1>
-<h3 align="center">Full-Stack Developer | Building Production-Grade SaaS Solutions</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashutosh-pandey-87543b269/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ashutoshpandey23june2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://tinyurl.com/3jfeu52m" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🚀 Building **production-ready SaaS applications** with modern tech stacks
-- 🔧 Recently shipped: **College Email SaaS Platform** - Automated email provisioning with OCR, AI verification, and admin controls
-- 🌱 Deep diving into **NestJS, Prisma, TypeScript, and enterprise architecture patterns**
-- 🎯 Focused on **secure authentication, SMTP systems, and scalable backend design**
-- 📫 Reach me at **ashutoshpandey23june2005@gmail.com**
-- ⚡ Fun fact: I turn complex workflows into elegant, production-grade systems 🚀
-
----
-
-## 🎯 Recent Project: College Email SaaS
-
-**Tech Stack:** NestJS 11 • React 19 • TypeScript • PostgreSQL • Prisma • Docker
-
-### Key Features Implemented:
-- 🔐 **Secure Authentication System** - JWT with role-based guards, password reset flows
-- 📧 **Email Issuance Pipeline** - SMTP with retry logic, encrypted credentials (AES-256)
-- 🤖 **OCR + AI Verification** - Tesseract.js for ID card processing, confidence scoring
-- 👨‍💼 **Admin Dashboard** - Request management, audit logs, email delivery tracking
-- 📊 **Real-time Status Tracking** - Timeline visualization, delivery logs
-- 🛡️ **Production Security** - Environment variable config, .gitignore hardening
-
-### Architecture Highlights:
-- Modular NestJS backend with clean service/controller separation
-- Type-safe Prisma ORM with migration management
-- Sharp for image optimization, Nodemailer for email delivery
-- React with TanStack Query for server state management
-- Docker Compose for containerized PostgreSQL
-
-**[View Project →](https://github.com/ashutoshpandey18/college-email-saas)**
+```text
+                  ':!;I([{,                     ashutosh@pandey
+                (%M#######@@%[,                 ---------------
+             ,lM####@@@@@@####@(                OS: ................. macOS, Ubuntu, Android
+            :M##@@@@###@@#@@@@@#x               Uptime: ............. 21 years (Born June 23, 2005)
+            x#@@@@##@#@@@@@@@#@@#{              Host: ............... YC-Style Product Engineer
+            k@@#@xx@#@###@@##@@@@l              Kernel: ............. Full-Stack & Agentic Systems Developer
+            *#@kx[;:[k%%@@#####@#{              IDE: ................ Cursor, VSCode 1.96.0
+            !#k*xl[(;;!l@@@M@@@#[               
+            ;@llkkkxx!,*%%kxxl@x                Languages.Programming: .. TypeScript, JavaScript, C++, SQL
+            'x(;!;:,!''!!I([IIx!                Languages.Computer: ..... HTML, CSS, JSON, Markdown, YAML
+            .l[,   ,I',!'  .,({                 Languages.Real: ......... English, Hindi
+             IkI,,:Il([[,.',Ix!                 
+              xk{(ll{I{[l{!(%;                  Flagships.AI: ........... Harness.ai (Frontline RAG Agent)
+              'M*;:!III!!IlM{                   Flagships.DevTools: ..... SketchFlow AI (Visual React IDE)
+          .,;I{%@xI:,,,:IxM%({I!,               Flagships.SaaS: ......... Atlas AI (Location Intel Copilot)
+        [M#####*k##M%%kM#Mll#####*              
+       I###@@@M[{l%MMMMM*!;[@@@@@#{             - Contact -------------------------------------------
+      IM@@##@#@[I!{[(({{;:;*#@###@#*            Email.Personal: ......... ashutoshpandey23june2005@gmail.com
+     I#######@#%(!!I!!!;:!l@@@####@#x'          LinkedIn: ............... linkedin.com/in/ashutosh-pandey-87543b269
+ 'I*M#@@######@#M*I:!!;;{%#########@##M*!.      GitHub: ................. github.com/ashutoshpandey18
+k####@#########@##M*II*%@#@#########@@###@xI    Portfolio: .............. tinyurl.com/3jfeu52m
+#@@@@############@#######@############@@@@##    
+[##@@@############@@@#@@###############@@##l    - GitHub Stats --------------------------------------
+ ,x###@@############################@@###k:     Repos: ... 10+ {Contributed: 20+} | Stars: ... 15+
+   ,l@################################@*:       Commits: ................. 1,000+ | Followers: 35+
+     .{%@@########################@@M('         Lines of Code on GitHub: . 150,000+
+```
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### Currently Exploring
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+I build production-grade applications that bridge complex backend services, agentic workflows, and high-fidelity user experiences. My focus is on robust system architecture, developer tooling, and building intuitive interfaces that solve real-world operational problems.
 
 ---
 
-## 📊 GitHub Stats
+## Flagship Projects
+
+### Harness.ai — Frontline AI Platform
+An agentic, multi-channel communication platform designed for frontline industrial operations, enabling standard operating procedure (SOP) retrieval and incident escalation for factory workers.
+* **Problem Solved:** Bridges the gap between complex industrial compliance manuals and shop-floor workers via zero-training voice, text, and visual interfaces.
+* **Key Architecture:**
+  * **Multi-Channel Pipeline:** Receives inputs from WhatsApp, Twilio SMS, and Line.
+  * **Audio & Vision Processing:** Processes voice notes through FFmpeg noise filters and Whisper transcribing; routes shop floor images through Claude Vision for OCR and status tagging.
+  * **Reasoning Loop:** Embeds SOPs into a `pgvector` database (Supabase catalog) and queries via cosine similarity. Includes a deterministic confidence threshold router: queries under 0.75 confidence are automatically logged as incidents and escalated to supervisors via WhatsApp notifications.
+* **Tech Stack:** Next.js (App Router), TypeScript, Vanilla CSS, Supabase, pgvector, OpenAI Whisper, Claude Vision, Sarvam AI API.
+* **[View Repository](https://github.com/ashutoshpandey18/Harness)**
+
+### SketchFlow AI — Visual Creative IDE
+A visual development workspace that interprets hand-drawn layouts and renders interactive web layouts in real time.
+* **Problem Solved:** Allows founders and developers to sketch layouts on a digital canvas and see them compiled into functional, production-ready React code instantly.
+* **Key Architecture:**
+  * **Dynamic DOM Syncing:** Translates user strokes and node graphs in the Sketch Deck into React components using React state hooks.
+  * **Design System:** Built with an industrial bone-white and deep onyx aesthetic, featuring custom SVGs, charcoal filters, felt-textures, and Framer Motion transitions.
+  * **System Telemetry:** Real-time logging page (`/system`) that visualizes rendering performance, event loop states, and component translation logic.
+* **Tech Stack:** Next.js 14, TypeScript, Vanilla CSS, Framer Motion.
+
+### Atlas AI — Location Intelligence Copilot
+An interactive geospatial assessment workspace built on top of the Mireye Coordinate API.
+* **Problem Solved:** Simplifies complex spatial evaluation by translating raw GIS attributes into clear, explainable site-selection decisions for warehouses, battery factories, and EV charging stations.
+* **Key Architecture:**
+  * **Decision & Recommendation Engine:** Queries the Mireye `/v1/fetch` endpoint, running deterministic business rules to generate a 0–100 suitability score for up to 5 sites simultaneously.
+  * **Siting Copilot:** Integrates the `/v1/ask` endpoint to answer natural language questions about land constraints and coordinates.
+  * **Site-Shifting Logic:** Automatically computes and proposes nearby coordinate adjustments to avoid flood zones, conservation easements, or steep slopes while estimating the score improvement.
+* **Tech Stack:** Next.js, React, Groq LLM, Turso DB (SQLite), Prisma ORM, Tailwind CSS.
+* **[View Repository](https://github.com/ashutoshpandey18/AtlasAI)**
+
+---
+
+## Additional Projects
+
+### College Email SaaS
+Automated institutional email provisioning and verification system.
+* **Features:** JWT authentication with role-based guards, password reset flows, secure SMTP email delivery with automatic retries, and Tesseract.js OCR verification for ID cards.
+* **Tech Stack:** NestJS 11, React 19, TypeScript, PostgreSQL, Prisma, Docker.
+* **[View Repository](https://github.com/ashutoshpandey18/college-email-saas)**
+
+## Core Capabilities
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>[ AI Workflows ]</strong>
+      <p>Designing agentic reasoning loops, custom RAG search models, and automated LLM validation pipelines with confidence-based threshold routing.</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong>[ Voice Systems ]</strong>
+      <p>Deploying real-time speech-to-text models, audio noise reduction filtering, and zero-training multilingual transcription pipelines.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>[ Secure Auth ]</strong>
+      <p>Implementing secure enterprise authentication patterns with JWT, bcrypt, role-based guards, and database credential encryption.</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong>[ Real-Time APIs ]</strong>
+      <p>Architecting low-latency, event-driven web hooks, and server-side background execution layers using Next.js and NestJS.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>[ OCR Pipelines ]</strong>
+      <p>Developing client-side document processing engines, automated status verification, and document layout parsing.</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong>[ SaaS Platforms ]</strong>
+      <p>Building production-ready software systems with modular design patterns, database orchestration, and interactive simulator interfaces.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>[ Analytics & Databases ]</strong>
+      <p>Integrating vector databases (pgvector), spatial APIs (Mireye), and relational engines (PostgreSQL, SQLite, Turso DB).</p>
+    </td>
+    <td width="50%" valign="top">
+      <strong>[ Responsive Web Systems ]</strong>
+      <p>Developing high-fidelity client workspaces, custom design systems, and responsive layout architectures.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Technical Stack
+
+* **Languages:** TypeScript, JavaScript, C++, SQL, HTML, CSS
+* **Frontend:** React, Next.js, Vite, Tailwind CSS, Framer Motion
+* **Backend & Database:** NestJS, Node.js, Express, PostgreSQL, MongoDB, Prisma, pgvector
+* **DevOps & Infrastructure:** Docker, Git, VS Code, Postman, Turso
+
+---
+
+## GitHub Performance & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashutoshpandey18&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -89,71 +140,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshpandey18&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-## 🔥 What I'm Building
-
-### 🎓 College Email SaaS (Latest)
-Automated institutional email provisioning with OCR verification, AI decision-making, and secure delivery tracking. Built with NestJS, React, PostgreSQL, and production-grade security practices.
-
-**Key Learnings:**
-- Enterprise authentication patterns (JWT, bcrypt, role guards)
-- Email delivery systems with retry logic and SMTP configuration
-- OCR integration (Tesseract.js) and AI confidence scoring
-- Database design with Prisma migrations
-- Security hardening (environment variables, AES-256 encryption)
-- Production deployment strategies
-
----
-
-## 💡 Skills & Expertise
-
-```typescript
-const ashutosh = {
-  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  frameworks: {
-    frontend: ["React", "Next.js", "Vite", "Tailwind CSS"],
-    backend: ["NestJS", "Express.js", "Node.js"],
-  },
-  databases: ["PostgreSQL", "MongoDB", "Prisma ORM"],
-  tools: ["Docker", "Git", "VS Code", "Postman"],
-  architecture: ["REST APIs", "Modular Design", "MVC Pattern"],
-  currentFocus: "Building scalable SaaS products with production-grade security"
-};
-```
-
----
-
-## 🔥 Profile Insights
-
-![Profile Views](https://komarev.com/ghpvc/?username=ashutoshpandey18&color=blue)
-![Followers](https://img.shields.io/github/followers/ashutoshpandey18?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/ashutoshpandey18?style=social)
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZenSensi/ZenSensi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZenSensi/ZenSensi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZenSensi/ZenSensi/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to collaborating on interesting projects or discussing tech. Feel free to reach out!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashutosh-pandey-87543b269/)
-- 📧 [Email](mailto:ashutoshpandey23june2005@gmail.com)
-- 🌐 [Portfolio](https://tinyurl.com/3jfeu52m)
-
----
-
-## ✨ Quote
-
-> *"Good code is its own best documentation."* — Steve McConnell
-
----
-
-<p align="center">⭐️ From <a href="https://github.com/ashutoshpandey18">ashutoshpandey18</a></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashutoshpandey18&color=blue&style=flat-square" alt="Profile Views" />
+</p>
