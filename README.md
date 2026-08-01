@@ -1,25 +1,25 @@
 ```text
                   ':!;I([{,                     ashutosh@pandey
                 (%M#######@@%[,                 ---------------
-             ,lM####@@@@@@####@(                OS: ................. macOS, Ubuntu, Android
-            :M##@@@@###@@#@@@@@#x               Uptime: ............. 21 years (Born June 23, 2005)
-            x#@@@@##@#@@@@@@@#@@#{              Host: ............... YC-Style Product Engineer
-            k@@#@xx@#@###@@##@@@@l              Kernel: ............. Full-Stack & Agentic Systems Developer
-            *#@kx[;:[k%%@@#####@#{              IDE: ................ Cursor, VSCode 1.96.0
-            !#k*xl[(;;!l@@@M@@@#[               
-            ;@llkkkxx!,*%%kxxl@x                Languages.Programming: .. TypeScript, JavaScript, C++, SQL
-            'x(;!;:,!''!!I([IIx!                Languages.Computer: ..... HTML, CSS, JSON, Markdown, YAML
-            .l[,   ,I',!'  .,({                 Languages.Real: ......... English, Hindi
+             ,lM####@@@@@@####@(                OS: ................. macOS, Linux
+            :M##@@@@###@@#@@@@@#x               Focus: .............. Agentic Workflows, GIS Platforms, Real-Time AI & SaaS
+            x#@@@@##@#@@@@@@@#@@#{              Role: ............... Full-Stack & AI Systems Developer
+            k@@#@xx@#@###@@##@@@@l              IDE: ................ Cursor, VS Code
+            *#@kx[;:[k%%@@#####@#{              
+            !#k*xl[(;;!l@@@M@@@#[               Languages: .......... TypeScript, JavaScript, Python, C++, SQL
+            ;@llkkkxx!,*%%kxxl@x                Core Stack: ......... Next.js, React, NestJS, Node.js, PostgreSQL, Docker
+            'x(;!;:,!''!!I([IIx!                Databases & ORM: .... Supabase, Turso (SQLite), Prisma, pgvector
+            .l[,   ,I',!'  .,({                 AI & Multimodal: .... Claude Vision, Whisper, Groq LLM, Sarvam AI, OCR
              IkI,,:Il([[,.',Ix!                 
-              xk{(ll{I{[l{!(%;                  Flagships.AI: ........... Harness.ai (Frontline RAG Agent)
-              'M*;:!III!!IlM{                   Flagships.DevTools: ..... SketchFlow AI (Visual React IDE)
-          .,;I{%@xI:,,,:IxM%({I!,               Flagships.SaaS: ......... Atlas AI (Location Intel Copilot)
+              xk{(ll{I{[l{!(%;                  Flagships.AI: ....... Harness.ai (Frontline RAG Agent)
+              'M*;:!III!!IlM{                   Flagships.DevTools: .. SketchFlow AI (Visual React IDE)
+          .,;I{%@xI:,,,:IxM%({I!,               Flagships.Platform: .. Atlas AI (Autonomous Geospatial Siting Platform)
         [M#####*k##M%%kM#Mll#####*              
        I###@@@M[{l%MMMMM*!;[@@@@@#{             - Contact -------------------------------------------
-      IM@@##@#@[I!{[(({{;:;*#@###@#*            Email.Personal: ......... ashutoshpandey23june2005@gmail.com
-     I#######@#%(!!I!!!;:!l@@@####@#x'          LinkedIn: ............... linkedin.com/in/ashutosh-pandey-87543b269
- 'I*M#@@######@#M*I:!!;;{%#########@##M*!.      GitHub: ................. github.com/ashutoshpandey18
-k####@#########@##M*II*%@#@#########@@###@xI    Portfolio: .............. tinyurl.com/3jfeu52m
+      IM@@##@#@[I!{[(({{;:;*#@###@#*            Email: .............. ashutoshpandey23june2005@gmail.com
+     I#######@#%(!!I!!!;:!l@@@####@#x'          LinkedIn: ........... linkedin.com/in/ashutosh-pandey-87543b269
+ 'I*M#@@######@#M*I:!!;;{%#########@##M*!.      GitHub: ............. github.com/ashutoshpandey18
+k####@#########@##M*II*%@#@#########@@###@xI    Portfolio: .......... tinyurl.com/3jfeu52m
 #@@@@############@#######@############@@@@##    
 [##@@@############@@@#@@###############@@##l    - GitHub Stats --------------------------------------
  ,x###@@############################@@###k:     Repos: ... 10+ {Contributed: 20+} | Stars: ... 15+
@@ -29,7 +29,7 @@ k####@#########@##M*II*%@#@#########@@###@xI    Portfolio: .............. tinyur
 
 ---
 
-I build production-grade applications that bridge complex backend services, agentic workflows, and high-fidelity user experiences. My focus is on robust system architecture, developer tooling, and building intuitive interfaces that solve real-world operational problems.
+Full-stack & AI software engineer specializing in autonomous agentic workflows, geospatial intelligence engines, real-time voice/vision pipelines, and production SaaS platforms. My core tech stack spans **TypeScript, JavaScript, Python, C++, Next.js, React, NestJS, Node.js, PostgreSQL (pgvector), Supabase, Turso DB (SQLite), Prisma ORM, Docker**, and multi-modal AI models (**Claude Vision, OpenAI Whisper, Groq LLM, Sarvam AI, Tesseract.js OCR**).
 
 ---
 
@@ -54,15 +54,16 @@ A visual development workspace that interprets hand-drawn layouts and renders in
   * **System Telemetry:** Real-time logging page (`/system`) that visualizes rendering performance, event loop states, and component translation logic.
 * **Tech Stack:** Next.js 14, TypeScript, Vanilla CSS, Framer Motion.
 
-### Atlas AI — Location Intelligence Copilot
-An interactive geospatial assessment workspace built on top of the Mireye Coordinate API.
-* **Problem Solved:** Simplifies complex spatial evaluation by translating raw GIS attributes into clear, explainable site-selection decisions for warehouses, battery factories, and EV charging stations.
+### Atlas AI — Autonomous Geospatial Siting & Land Acquisition Platform
+An autonomous location intelligence and land acquisition agent designed for clean energy and commercial infrastructure.
+* **Problem Solved:** Automates site screening by ingesting candidate portfolios across 50+ GIS layers, ISO grid queue constraints, flood hazards, and solar yield data—reducing site selection and underwriting timelines from weeks to minutes.
 * **Key Architecture:**
-  * **Decision & Recommendation Engine:** Queries the Mireye `/v1/fetch` endpoint, running deterministic business rules to generate a 0–100 suitability score for up to 5 sites simultaneously.
-  * **Siting Copilot:** Integrates the `/v1/ask` endpoint to answer natural language questions about land constraints and coordinates.
-  * **Site-Shifting Logic:** Automatically computes and proposes nearby coordinate adjustments to avoid flood zones, conservation easements, or steep slopes while estimating the score improvement.
-* **Tech Stack:** Next.js, React, Groq LLM, Turso DB (SQLite), Prisma ORM, Tailwind CSS.
-* **[View Repository](https://github.com/ashutoshpandey18/AtlasAI)**
+  * **Multi-Site Parallel GIS Ingestion:** Batches parallel queries across Mireye location intelligence APIs (`/v1/fetch/batch`) and federal GIS datasets (NOAA NREL solar yield, USGS 3DEP slope, FEMA NFHL flood hazards, EIA power grid lines).
+  * **Automated Rejection Ledger ("Ask WHY"):** Evaluates candidate parcels against commercial siting rules, generating written rejection proofs for unviable sites and suggesting optimized adjacent coordinates.
+  * **Feasibility Engine & Underwriting Memos:** Computes 0–100 Feasibility Index scores and compiles printable 3-page Executive Investment Committee Memos featuring financial pro-forma modeling (IRA 30% ITC, MACRS depreciation, Net Equity IRR), option LOI contracts, and Proof-of-Work evidence panels.
+  * **Streaming SSE Agent Pipeline:** Real-time Server-Sent Events endpoint (`POST /api/agent/site-scan`) streaming strategy plans, site screening, and investment memos.
+* **Tech Stack:** Next.js 14, TypeScript, React, Groq LLM, Mireye API, Turso DB (SQLite), Prisma ORM, Tailwind CSS.
+* **[View Live App](https://atlas-ai-1.vercel.app/)** | **[View Repository](https://github.com/ashutoshpandey18/AtlasAI)**
 
 ---
 
@@ -123,10 +124,11 @@ Automated institutional email provisioning and verification system.
 
 ## Technical Stack
 
-* **Languages:** TypeScript, JavaScript, C++, SQL, HTML, CSS
-* **Frontend:** React, Next.js, Vite, Tailwind CSS, Framer Motion
-* **Backend & Database:** NestJS, Node.js, Express, PostgreSQL, MongoDB, Prisma, pgvector
-* **DevOps & Infrastructure:** Docker, Git, VS Code, Postman, Turso
+* **Languages:** TypeScript, JavaScript, Python, C++, SQL, HTML, CSS
+* **Frontend & UI:** React (React 19), Next.js (App Router / Next 14), Vite, Tailwind CSS, Framer Motion, Vanilla CSS
+* **Backend & Relational DBs:** NestJS, Node.js, Express, PostgreSQL, Supabase, Turso DB (SQLite), Prisma ORM, MongoDB
+* **AI, Vector DBs & Multimodal:** pgvector, OpenAI Whisper, Claude Vision, Groq LLM, Sarvam AI API, Tesseract.js OCR, FFmpeg, Mireye GIS API
+* **DevOps, Infrastructure & Tooling:** Docker, Git, Cursor, VS Code, Postman, Vercel
 
 ---
 
